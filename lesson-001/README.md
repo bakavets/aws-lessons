@@ -1,0 +1,1 @@
+## [How to create an AWS account and configure it after creation](https://youtu.be/HJyKZvOVVEs)
